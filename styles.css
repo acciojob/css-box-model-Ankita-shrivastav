@@ -1,2 +1,30 @@
-
-/* Your CSS Code here. */
+div{
+	width:520px;
+	background-color:white;
+	border:5px solid;
+	padding:50px;
+	margin:20px;
+}
+.container2{
+	border:20px solid blue;
+	background-color:lightblue;
+	padding:60px;
+	margin:auto;
+	width:350px;
+	outline-color:black;
+	outline-style:solid
+}
+.container3{
+	background-color:lightblue;
+	border:1px solid;
+	margin:auto;
+	width:260px;
+}
+.container4{
+	border:2px solid;
+	padding:right;
+	width:150px;
+	margin:auto;
+	background-color:lightblue;
+	border-style:dashed;
+}
